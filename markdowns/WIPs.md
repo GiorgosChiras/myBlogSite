@@ -8,14 +8,14 @@ In this page, i want to share with you some of my projects that i either never g
 
 ## 2D Platformer
 
-![](../videos/MyPlatformer.mp4)
+![](../videos/2dPlatformer.mp4)
 
 One of my favourite game series growing up was the Super mario series.I really enjoy this style of gameplay, so it was only a matter of time i started experimenting with 2D Platformers. The video is me, testing my character's and monster's movement and fighting mechanics. All the artwork i found on itchio from very talented artists:)
 
 
 ## 2D Plane game...thingy
 
-![](../videos/Plane2D.mp4)
+![](../videos/2dPlane.mp4)
 
 This game's idea was inspired by a game so old i dont even think i can find it on the internet anymore. I played around with the idea of wave spawining, which is basically the game spawining more enemies the longer you stay aive. The artwork was done by my then girlfriend which was very kind of her. Although some of my classmates enjoyed it, i never got to finish it.
 

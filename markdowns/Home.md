@@ -17,17 +17,17 @@ In order to win, you have to complete all of the 3 levels in the game, but each 
 
 ## First Level
 
-![](../videos/firstLevel.mp4)
+![](../videos/lvl1.mp4)
 
 
 ## Second Level
 
-![](../videos/secondLevel.mp4)
+![](../videos/lvl2.mp4)
 
 
 ## Third Level
 
-![](../videos/ThirdLevel.mp4)
+![](../videos/lvl3.mp4)
 
 ## What did i learn?
 
